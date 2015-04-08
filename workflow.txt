@@ -1,0 +1,14 @@
+create task branch locally
+checkout task branch
+do work
+commit to your local task branch
+push task branch to your personal fork when ready
+
+once task is done, create a pull request against upstream
+pull request (PR) is approved and merged into upstream repository
+you will switch to your master branch (in your local clone)
+do the 
+git pull upstream master
+git push origin master
+
+that sync's with the upstream master
